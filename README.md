@@ -39,4 +39,6 @@
 4. Destination is console and external log file in the drive.
 5. For all the endpoints, loggings will be done.
 
+# ER Diagram
+<br>
 <img src = "https://github.com/Siddhanttimeline/REST-api-spring-boot-/blob/main/ER%20final.png">
